@@ -28775,5 +28775,12 @@
     "author": "hornat",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Add custom view switching buttons to the Base database title bar.",
     "repo": "hornatx/base-view-switcher"
-  }
+  },
+  {
+  "id": "open-bridge",
+  "name": "Open Bridge",
+  "author": "Hsiao Evan",
+  "description": "A contextual AI workspace for Obsidian that connects notes, selected text, files, AI responses, and CLI/API model backends.",
+  "repo": "xiaoyihuang0503-cyber/obsidian-open-bridge"
+}
 ]
